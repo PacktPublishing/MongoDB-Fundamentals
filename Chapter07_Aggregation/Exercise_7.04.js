@@ -12,7 +12,7 @@
 // Can be run as a file like below:
 // mongo "mongodb+srv://myAtlasCluster-fawxo.gcp.mongodb.net/sample_mflix" --username $USERNAME --password $PASSWORD .\Excercise_3_Code.js
 
-// Excercise Part 2: Manipulating Data
+// Exercise 4: Selecting the Title from Each Movie Category
 // Modify the match to filter out long films
 { $match: {
   released: {$lte: new ISODate("2001-01-01T00:00:00Z") },
