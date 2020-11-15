@@ -11,8 +11,7 @@
 // Can be run as a file like below:
 // mongo "mongodb+srv://myAtlasCluster-fawxo.gcp.mongodb.net/sample_mflix" --username $USERNAME --password $PASSWORD .\Excercise_4_Code.js
 
-//// TOPIC C: Working with large data sets.
-// Excercise: Working with large data sets.
+// Exercise 5: Listing the Most User-Commented Movies
 // Create code skeleton
 var findMostCommentedMovies = function() {
     print("Finding the most commented on movies.");

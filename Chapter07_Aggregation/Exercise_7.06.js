@@ -11,8 +11,7 @@
 // Can be run as a file like below:
 // mongo "mongodb+srv://myAtlasCluster-fawxo.gcp.mongodb.net/sample_mflix" --username $USERNAME --password $PASSWORD .\Excercise_5_Code.js
 
-//// TOPIC D: Getting the most from your aggregations
-// Excercise: Getting the most from your aggregations
+// Exercise 6: Finding award winning documentary movies.
 // Review the following pipeline:
 var findAwardWinningDocumentaries = function() {
     print("Finding award winning documentary Movies...");
