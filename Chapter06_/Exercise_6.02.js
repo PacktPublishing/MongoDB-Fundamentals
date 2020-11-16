@@ -7,7 +7,7 @@
  */
 
 // Exercise code for Packt MongoDB For Begginers.
-// Exercise 6.01 New Category of Classic Movies 
+// Exercise 6.02 New Category of Classic Movies 
 
 /**
   * Your task for this exercise 
@@ -20,7 +20,7 @@
 db.movies.updateMany(
     {
         "tomatoes.viewer.meter" : {$gt : 95}, 
-	      "tomatoes.critic.meter" : {$gt : 95}
+	"tomatoes.critic.meter" : {$gt : 95}
     },
     {
         $addToSet : {"genres" : "Classic"}
