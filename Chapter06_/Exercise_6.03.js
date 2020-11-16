@@ -7,7 +7,7 @@
  */
 
 // Activity code for Packt MongoDB For Begginers.
-// Activity 6.02 Update Directors name
+// Activity 6.03 Update Directors name
 
 /**
   * Your task for this activity 
