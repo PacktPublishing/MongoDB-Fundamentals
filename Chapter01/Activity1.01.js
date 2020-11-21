@@ -53,7 +53,7 @@ db.awards.insertOne(
         "title": "Oscars",
         "year": "1976",
         "category": "Best Film",
-        "nominess": ["Rocky","All The President’s Men","Bound For Glory","Network","Taxi Driver"],
+        "nominees": ["Rocky","All The President’s Men","Bound For Glory","Network","Taxi Driver"],
         "winners" : 
         [
             {
@@ -68,7 +68,7 @@ db.awards.insertOne(
         "title": "Oscars",
         "year": "1976",
         "category": "Actor In A Leading Role",
-        "nominess": ["PETER FINCH","ROBERT DE NIRO","GIANCARLO GIANNINI"," WILLIAM HOLDEN","SYLVESTER STALLONE"],
+        "nominees": ["PETER FINCH","ROBERT DE NIRO","GIANCARLO GIANNINI"," WILLIAM HOLDEN","SYLVESTER STALLONE"],
         "winners" : 
         [
             {
