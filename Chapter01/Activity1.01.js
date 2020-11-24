@@ -80,4 +80,4 @@ db.awards.insertOne(
 )
 
  // Fetch the documents from the awards collection 
- db.movies.find().pretty() 
+ db.awards.find().pretty() 
