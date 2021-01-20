@@ -14,7 +14,7 @@ To get started with the project files, you'll need to:
 2. Install [Visual Studio Code](https://code.visualstudio.com/)
 3. Install [Node.js](https://nodejs.org/en/download/)
 
-## About The Kubernetes Workshop
+## About MongoDB Fundamentals
 [MongoDB Fundamentals](https://www.amazon.com/MongoDB-Workshop-Interactive-Approach-Learning/dp/1839210648/ref=sr_1_1?dchild=1&keywords=MongoDB%20Fundamentals&qid=1611064650&s=books&sr=1-1&utm_source=github&utm_medium=repository&utm_campaign=9781839210648&utm_term=MongoDB&utm_content=MongoDB%20Fundamentals) will get you started using MongoDB for data processing in a cloud computing environment. Starting with the fundamentals of NoSQL, you'll build up to learning advanced data manipulation techniques and application development with the help of hands-on case-studies.	
 
 ## What you will learn
