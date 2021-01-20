@@ -7,7 +7,7 @@
 This is the repository for [MongoDB Fundamentals](https://www.amazon.com/MongoDB-Workshop-Interactive-Approach-Learning/dp/1839210648/ref=sr_1_1?dchild=1&keywords=MongoDB%20Fundamentals&qid=1611064650&s=books&sr=1-1&utm_source=github&utm_medium=repository&utm_campaign=9781839210648&utm_term=MongoDB&utm_content=MongoDB%20Fundamentals), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
 ## Requirements and Setup
-<a href="https://www.amazon.com/MongoDB-Workshop-Interactive-Approach-Learning/dp/1839210648/ref=sr_1_1?dchild=1&keywords=MongoDB%20Fundamentals&qid=1611064650&s=books&sr=1-1&utm_source=github&utm_medium=repository&utm_campaign=9781839210648&utm_term=MongoDB&utm_content=MongoDB%20Fundamentals"><img src="https://github.com/PacktPublishing/MongoDB-Fundamentals/blob/master/MongoDB%20Fundamentals.png" height="280px" width="230px" align="right" this.target="_blank"></a>
+<a href="https://www.amazon.com/MongoDB-Workshop-Interactive-Approach-Learning/dp/1839210648/ref=sr_1_1?dchild=1&keywords=MongoDB%20Fundamentals&qid=1611064650&s=books&sr=1-1&utm_source=github&utm_medium=repository&utm_campaign=9781839210648&utm_term=MongoDB&utm_content=MongoDB%20Fundamentals"><img src="https://github.com/PacktPublishing/MongoDB-Fundamentals/blob/master/MongoDB%20Fundamentals.png" alt="MongoDB Fundamentals" height="280px" width="230px" align="right" this.target="_blank"></a>
 
 To get started with the project files, you'll need to:
 1. Install [MongoDB Community tarball](https://www.mongodb.com/try/download/community)
