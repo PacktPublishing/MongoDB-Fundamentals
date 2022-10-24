@@ -32,3 +32,7 @@ If you've found this repository useful, you might want to check out some of our 
 * [The SQL Workshop](https://www.amazon.com/SQL-Workshop-Interactive-Approach-Learning/dp/1838642358/ref=sr_1_1?dchild=1&keywords=The%20SQL%20Workshop&qid=1610708551&sr=8-1&utm_source=github&utm_medium=repository&utm_campaign=9781838642358&utm_term=SQL&utm_content=The%20SQL%20Workshop)
 * [The Applied SQL Data Analytics Workshop](https://www.amazon.com/Applied-SQL-Data-Analytics-Workshop-ebook/dp/B085D91RNK/ref=sr_1_2?crid=1FDBQD0TEVVF9&dchild=1&keywords=applied%20sql%20data%20analytics%20workshop&qid=1610707878&sprefix=applied%20sql%20dat%2Caps%2C330&sr=8-2&utm_source=github&utm_medium=repository&utm_campaign=9781800203679&utm_term=Applied%20SQL%20Data%20Analytics&utm_content=The%20Applied%20SQL%20Data%20Analytics%20Workshop)
 * [The Artificial Intelligence Infrastructure Workshop](https://www.amazon.com/Artificial-Intelligence-Infrastructure-Workshop-cutting-edge/dp/1800209843/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1611066566&sr=8-1&utm_source=github&utm_medium=repository&utm_campaign=9781801071314&utm_term=Artificial%20Intelligence%20Infrastructure&utm_content=The%20Artificial%20Intelligence%20Infrastructure%20Workshop)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781839210648">https://packt.link/free-ebook/9781839210648 </a> </p>
